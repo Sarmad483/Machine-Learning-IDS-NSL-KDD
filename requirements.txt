@@ -1,0 +1,17 @@
+# Data manipulation
+pandas==1.5.3
+numpy==1.24.2
+
+# Machine learning and model evaluation
+scikit-learn==1.2.0
+xgboost==1.7.4
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.1
+
+# Jupyter Notebook (for interactive development)
+jupyter==1.0.0
+
+# Optional: If you are using SHAP for feature importance analysis
+shap==0.41.0
