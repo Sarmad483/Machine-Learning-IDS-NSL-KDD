@@ -6,8 +6,7 @@ This repository contains the code and documentation for a machine learning-based
 
 ## Project Structure
 - `data/`: Dataset files and loading scripts.
-- `notebooks/`: Jupyter notebooks for data exploration, feature engineering, and model training.
-- `models/`: Saved models and checkpoints.
+- `code/`: Jupyter notebooks for data exploration, feature engineering, and model training.
 - `results/`: Results including metrics, visualizations, and performance comparisons.
 
 ## Requirements
